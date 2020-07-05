@@ -2,6 +2,256 @@
 
 迁移学习的应用
 
+- 20200529 WWW-20 [Modeling Users’ Behavior Sequences with Hierarchical Explainable Network for Cross-domain Fraud Detection](https://dl.acm.org/doi/abs/10.1145/3366423.3380172)
+  	- Transfer learning for cross-domain fraud detection
+  	- 迁移学习用于跨领域欺诈检测
+- 20200420 ACL-20 [Geometry-aware Domain Adaptation for Unsupervised Alignment of Word Embeddings](https://arxiv.org/abs/2004.08243)
+  	- DA for unsupervised word embeddings alignment
+  	- 领域自适应用于word embedding对齐
+- 20200420 AAAI-20 [Generative Adversarial Networks for Video-to-Video Domain Adaptation](https://arxiv.org/abs/2004.08058)
+  	- Using GAN for video domain adaptation
+  	- GAN用于视频到视频的adaptation
+
+- 20200420 arXiv [Transfer Learning with Graph Neural Networks for Short-Term Highway Traffic Forecasting](https://arxiv.org/abs/2004.08038)
+  	- Transfer learning with GNN for highway traffic forecasting
+  	- 迁移学习+GNN用于交通流量预测
+
+- 20200405 arXiv [Joint Deep Cross-Domain Transfer Learning for Emotion Recognition](https://arxiv.org/abs/2003.11136)
+  	- Transfer learning for emotion recognition
+  	- 迁移学习用于情绪识别
+
+- 20191222 NIPS-19 workshop [Sim-to-Real Domain Adaptation For High Energy Physics](https://arxiv.org/abs/1912.08001)
+     - Transfer learning for high energy physics
+     - 迁移学习用于高能物理
+
+- 20191222 arXiv [Transfer learning in hybrid classical-quantum neural networks](https://arxiv.org/abs/1912.08278)
+     - Transfer learning for quantum neural networks
+
+- 20191214 arXiv [Unsupervised Transfer Learning via BERT Neuron Selection](https://arxiv.org/abs/1912.05308)
+     - Unsupervised transfer learning via BERT neuron selection
+
+- 20191214 arXiv [Transfer Learning-Based Outdoor Position Recovery with Telco Data](https://arxiv.org/abs/1912.04521)
+     - Outdoor position recorvey with Telco data using transfer learning
+
+- 20191214 NIPS-19 workshop [Cross-Language Aphasia Detection using Optimal Transport Domain Adaptation](https://arxiv.org/abs/1912.04370)
+    - Optimal transport domain adaptation
+
+- 20191201 arXiv [A Transfer Learning Method for Goal Recognition Exploiting Cross-Domain Spatial Features](https://arxiv.org/abs/1911.10134)
+     - A transfer learning method for goal recognition 
+     - 用迁移学习分析语言中的目标
+
+- 20191201 AAAI-20 [Zero-Resource Cross-Lingual Named Entity Recognition](https://arxiv.org/abs/1911.09812)
+   - Zero-resource cross-lingual NER
+   - 零资源的跨语言NER
+- 20191125 arXiv [Attention Privileged Reinforcement Learning For Domain Transfer](https://arxiv.org/abs/1911.08363)
+  	- Attention privileged reinforcement learning for domain transfer
+
+- 20191124 [Cantonese Automatic Speech Recognition Using Transfer Learning from Mandarin](https://arxiv.org/abs/1911.09271)
+  	- Cantonese speech recognition using transfer learning from mandarin
+  	- 普通话语音识别迁移到广东话识别
+
+- 20191115 arXiv [Instance-based Transfer Learning for Multilingual Deep Retrieval](https://arxiv.org/abs/1911.06111)
+  	- Instance based transfer learning for multilingual deep retrieval
+  	- 基于实例的迁移学习用于多语言的retrieval
+
+- 20191115 arXiv [Unsupervised Pre-training for Natural Language Generation: A Literature Review](https://arxiv.org/abs/1911.06171)
+  	- Unsupervised pre-training for natural language generation survey
+  	- 一篇无监督预训练用于自然语言生成的综述
+
+- 20191115 AAAI-20 [Unsupervised Domain Adaptation on Reading Comprehension](https://arxiv.org/abs/1911.06137)
+  	- 无监督DA用于阅读理解
+  	- Unsupervised DA for reading comprehension
+
+- 20191113 arXiv [Open-Ended Visual Question Answering by Multi-Modal Domain Adaptation](https://arxiv.org/abs/1911.04058)
+  	- Supervised multi-modal domain adaptation in VQA
+  	- 有监督的多模态DA用于VQA任务
+
+- 20191113 arXiv [NegBERT: A Transfer Learning Approach for Negation Detection and Scope Resolution](https://arxiv.org/abs/1911.04211)
+  	- Transfer learning for negation detection and scope resolution
+  	- 迁移学习用于否定检测
+
+- 20191113 AAAI-20 [TANDA: Transfer and Adapt Pre-Trained Transformer Models for Answer Sentence Selection](https://arxiv.org/abs/1911.04118)
+  	- Finetune twice for answer sentence selection
+  	- 两次finetune用于answer sentence selection
+
+- 20191111 NIPS-19 workshop [Transfer Learning in 4D for Breast Cancer Diagnosis using Dynamic Contrast-Enhanced Magnetic Resonance Imaging](https://arxiv.org/abs/1911.03022)
+  	- Transfer learning in 4D for breast cancer diagnosis
+
+- 20191111 BigData-19 [Deep Transfer Learning for Thermal Dynamics Modeling in Smart Buildings](https://arxiv.org/abs/1911.03318)
+  	- Transfer learning for thermal dynamics modeling
+
+- 20191111 arXiv [Unsupervised Domain Adaptation of Contextual Embeddings for Low-Resource Duplicate Question Detection](https://arxiv.org/abs/1911.02645)
+  	- Unsupervised DA for low-resource duplicate question detection
+
+- 20191111 arXiv [Towards Domain Adaptation from Limited Data for Question Answering Using Deep Neural Networks](https://arxiv.org/abs/1911.02655)
+  	- DA for question answering using DNN
+
+- 20191111 arXiv [Teacher-Student Training for Robust Tacotron-based TTS](https://arxiv.org/abs/1911.02839)
+  	- Teacher-student network for robust TTS
+
+- 20191111 arXiv [SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization](https://arxiv.org/abs/1911.03437)
+  	- Fine-tuning for pre-trained language model
+
+- 20191111 arXiv [Change your singer: a transfer learning generative adversarial framework for song to song conversion](https://arxiv.org/abs/1911.02933)
+  	- Adversarial transfer learning for song-to-song conversion
+
+- 20191111 arXiv [Transfer Learning in Spatial-Temporal Forecasting of the Solar Magnetic Field](https://arxiv.org/abs/1911.03193)
+  	- Transfer learning for solar magnetic field
+
+- 20191111 arXiv [Deep geometric knowledge distillation with graphs](https://arxiv.org/abs/1911.03080)
+  	- Deep geometric knowledge distillation with graphs
+
+- 20191101 arXiv [Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning](https://arxiv.org/abs/1910.14192)
+  	- Adversarial transfer learning for aspect-based sentement analysis
+  	- 对抗迁移用于aspect层级的情感分析
+
+- 20191101 [Transfer Learning from Transformers to Fake News Challenge Stance Detection (FNC-1) Task](https://arxiv.org/abs/1910.14353)
+  	- A fake news challenges based on transformers
+  	- 一个基于transformer的假新闻检测挑战
+
+- 20191029 arXiv [NER Models Using Pre-training and Transfer Learning for Healthcare](https://arxiv.org/abs/1910.11241)
+  	- Pretraining NER models for healthcare
+  	- 预训练的NER模型用于健康监护
+
+- 20191029 WACV-20 [Progressive Domain Adaptation for Object Detection](https://arxiv.org/abs/1910.11319)
+  	- Progressive domain adaptation for object recognition
+  	- 渐进式的DA用于物体检测
+
+- 20191029 WSDM-20 [Meta-Learning with Dynamic-Memory-Based Prototypical Network for Few-Shot Event Detection](https://arxiv.org/abs/1910.11621)
+  	- Meta learning with dynamic memory based prototypical network for few-shot event detection
+
+- 20191017 arXiv [Evolution of transfer learning in natural language processing](https://arxiv.org/abs/1910.07370)
+  	- Survey transfer learning works in NLP
+  	- 综述了最近迁移学习在NLP的一些进展
+
+- 20191017 arXiv [Unsupervised Domain Adaptation Meets Offline Recommender Learning](https://arxiv.org/abs/1910.07295)
+  	- Unsupervised DA meets offline recommender learning
+  	- 无监督DA用于离线推荐系统
+
+- 20191017 [Transfer Learning for Algorithm Recommendation](https://arxiv.org/abs/1910.07012)
+  	- Transfer learning for algorithm recommendation
+  	- 迁移学习用于算法推荐
+
+- 20191015 arXiv [Emotion Recognition in Conversations with Transfer Learning from Generative Conversation Modeling](https://arxiv.org/abs/1910.04980)
+  	- Emotion recognition in conversations with transfer learning
+  	- 用迁移学习进行对话中的情绪识别
+
+- 20191015 WSDM-20 [DDTCDR: Deep Dual Transfer Cross Domain Recommendation](https://arxiv.org/abs/1910.05189)
+  	- Cross-modal recommendation using dual transfer learning
+  	- 用对偶迁移进行跨模态推荐
+
+- 20191011 NeurIPS-19 [Unified Language Model Pre-training for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.03197)
+  	- Unified language model pre-training for understanding and generation
+  	- 统一的语言模型预训练用于自然语言理解和生成
+
+- 20191011 ICIP-19 [Cross-modal knowledge distillation for action recognition](https://arxiv.org/abs/1910.04641)
+  	- Cross-modal knowledge distillation for action recognition
+  	- 跨模态的知识蒸馏并用于动作识别
+
+- 20191011 NeurIPS-19 workshop [Language Transfer for Early Warning of Epidemics from Social Media](https://arxiv.org/abs/1910.04519)
+  	- Language transfer to predict epidemics from social media
+  	- 通过社交网络数据预测传染病并进行语言模型的迁移
+
+- 20191008 arXiv, ICCV-19 demo [Cross-Domain Complementary Learning with Synthetic Data for Multi-Person Part Segmentation](https://arxiv.org/abs/1907.05193)
+  	- Learning human body part segmentation without human labeling 
+  	- 基於合成數據的跨域互補學習人體部位分割
+
+- 20191008 arXiv [Transfer Brain MRI Tumor Segmentation Models Across Modalities with Adversarial Networks](https://arxiv.org/abs/1910.02717)
+  	- Transfer learning for multi-modal brain MRI tumor segmentation
+  	- 用迁移学习进行多模态的MRI肿瘤分割
+
+- 20191008 ICONIP-19 [Semi-Supervised Domain Adaptation with Representation Learning for Semantic Segmentation across Time](https://arxiv.org/abs/1805.04141)
+  	- Semi-supervised domain adaptation with representation learning for semantic segmentation
+  	- 半监督DA用于语义分割
+
+- 20191008 arXiv [Noise as Domain Shift: Denoising Medical Images by Unpaired Image Translation](https://arxiv.org/abs/1910.02702)
+  	- Noise as domain shift for medical images
+  	- 医学图像中的噪声进行adaptation
+
+- 20190926 arXiv [Restyling Data: Application to Unsupervised Domain Adaptation](https://arxiv.org/abs/1909.10900)
+  	- Restyle data using domain adaptation
+  	- 使用domain adaptation进行风格迁移
+
+
+- 20190916 ISWC-19 [Cross-dataset deep transfer learning for activity recognition](https://dl.acm.org/citation.cfm?id=3344865)
+  	- Cross-dataset transfer learning for activity recognition
+  	- 跨数据集的深度迁移学习用于行为识别
+
+- 20190912 MICCAI workshop [Multi-Domain Adaptation in Brain MRI through Paired Consistency and Adversarial Learning](https://arxiv.org/abs/1908.05959)
+  	- Multi-domain adaptation for brain MRI
+  	- 多领域的adaptation用于大脑MRI识别
+
+- 20190909 IJCAI-FML-19 [FedHealth: A Federated Transfer Learning Framework for Wearable Healthcare](http://jd92.wang/assets/files/a15_ijcai19.pdf)
+  	- The first work on federated transfer learning for wearable healthcare
+  	- 第一个将联邦迁移学习用于可穿戴健康监护的工作
+
+- 20190829 EMNLP-19 [Investigating Meta-Learning Algorithms for Low-Resource Natural Language Understanding Tasks](https://arxiv.org/abs/1908.10423)
+  	- Investigating MAML for low-resource NMT
+  	- 调查了MAML方法用于低资源的NMT问题的表现
+
+- 20190829 EMNLP-19 [Unsupervised Domain Adaptation for Neural Machine Translation with Domain-Aware Feature Embeddings](https://arxiv.org/abs/1908.10430)
+  	- Domain adaptation for NMT
+
+- 20190828 MICCAI-19 workshop [Cross-modality Knowledge Transfer for Prostate Segmentation from CT Scans](https://arxiv.org/abs/1908.10208)
+  	- Cross-modality transfer for prostate segmentation
+  	- 跨模态的迁移用于前列腺分割
+
+- 20180828 ICCV-19 workshop [Unsupervised Deep Feature Transfer for Low Resolution Image Classification](https://arxiv.org/abs/1908.10012)
+  	- Deep feature transfer for low resolution image classification
+  	- 深度特征迁移用于低分辨率图像分类
+
+- 20190828 arXiv [VAE-based Domain Adaptation for Speaker Verification](https://arxiv.org/abs/1908.10092)
+  	- Speaker verification using VAE domain adaptation
+  	- 基于VAE的speaker verification
+
+- 20190821 arXiv [Shallow Domain Adaptive Embeddings for Sentiment Analysis](https://arxiv.org/abs/1908.06082)
+  	- Domain adaptative embedding for sentiment analysis
+  	- 迁移学习用于情感分类
+
+- 20190813 IJAIT [Transferring knowledge from monitored to unmonitored areas for forecasting parking spaces](https://arxiv.org/abs/1908.03629)
+    - Transfer learning for forecasting parking spaces
+    - 用迁移学习预测停车空间
+
+- 20190809 ICCASP-19 [Cross-lingual Text-independent Speaker Verification using Unsupervised Adversarial Discriminative Domain Adaptation](https://arxiv.org/abs/1908.01447)
+  	- Text independent speaker verification using adversarial DA
+  	- 文本无关的speaker verification用DA
+
+- 20190809 IJCAI-19 [Progressive Transfer Learning for Person Re-identification](https://arxiv.org/abs/1908.02492)
+  	- Progressive transfer learning for RE_ID
+  	- 渐进式迁移学习用于RE_ID
+
+- 20190809 NeurIPS-18 [MacNet: Transferring Knowledge from Machine Comprehension to Sequence-to-Sequence Models](https://arxiv.org/abs/1908.01816)
+  	- Transfer learning from machine comprehension to sequence to senquence Models
+  	- 从机器理解到序列模型迁移
+
+- 20190802 arXiv [Towards More Accurate Automatic Sleep Staging via Deep Transfer Learning](https://arxiv.org/abs/1907.13177)
+  	- Accurate Sleep Staging with deep transfer learning
+  	- 用深度迁移学习进行精准的睡眠阶段估计
+
+- 20190729 MICCAI-19 [Annotation-Free Cardiac Vessel Segmentation via Knowledge Transfer from Retinal Images](https://arxiv.org/abs/1907.11483)
+  	- Cardiac vessel segmentation using transfer learning from Retinal Images
+  	- 用视网膜图片进行迁移学习用于心脏血管分割
+
+- 20190703 arXiv [Disentangled Makeup Transfer with Generative Adversarial Network](https://arxiv.org/abs/1907.01144)
+  	- Makeup transfer with GAN
+  	- 用GAN进行化妆的迁移
+
+- 20190703 arXiv [Applying Transfer Learning To Deep Learned Models For EEG Analysis](https://arxiv.org/abs/1907.01332)
+  	- Apply transfer learning to EEG
+  	- 用深度迁移学习进行EEG分析
+
+- 20190626 arXiv [A Novel Deep Transfer Learning Method for Detection of Myocardial Infarction](https://arxiv.org/abs/1906.09358)
+  	- A deep transfer learning method for detecting myocardial infarction
+  	- 一种用于监测心肌梗塞的深度迁移方法
+
+- 20190517 PHM-19 [Domain Adaptive Transfer Learning for Fault Diagnosis](https://arxiv.org/abs/1905.06004)
+  	- Domain adaptation for fault diagnosis
+  	- 领域自适应用于错误检测
+
+- 20190515 ACL-19 [Effective Cross-lingual Transfer of Neural Machine Translation Models without Shared Vocabularies](https://arxiv.org/abs/1905.05475)
+  	- Cross-lingual transfer of NMT
+  	- 跨语言的NMT模型迁移
+
 - 20190509 arXiv [Unsupervised Domain Adaptation using Generative Adversarial Networks for Semantic Segmentation of Aerial Images](https://arxiv.org/abs/1905.03198)
   	- Domain adaptation for semantic segmentation in aerial images
   	- DA应用于鸟瞰图像语义分割

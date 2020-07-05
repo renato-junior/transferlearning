@@ -4,13 +4,21 @@ This directory contains the code for paper [Easy Transfer Learning By Exploiting
 
 ## Requirements
 
+There are two implementations of EasyTL: Matlab and Python.
+
+### Matlab 
+
 The original code is written using Matlab R2017a. I think all versions after 2015 can run the code.
 
-The Python version is on the way.
+### Python
+
+Thanks to [@KodeWorker](https://github.com/KodeWorker) for providing a Python implementation.
+
+The Python version can be found in [here](https://github.com/jindongwang/transferlearning/tree/master/code/traditional/pyEasyTL).
 
 ## Demo & Usage
 
-I offer three basic demos to reproduce the experiments in this paper: 
+For Matlab, I offer three basic demos to reproduce the experiments in this paper: 
 
 - For Amazon Review dataset, please run `demo_amazon_review.m`. 
 - For Office-Caltech dataset, please run `demo_office_caltech.m`. 
@@ -18,13 +26,15 @@ I offer three basic demos to reproduce the experiments in this paper:
 
 Note that this directory does **not** contains any dataset. You can download them at the following links, and then add the folder to your Matlab path before running the code.
 
-[Download Amazon Review dataset](https://pan.baidu.com/s/1F69rBEF9_DwrVcEjHXk96w) with extraction code `a82t`.
+For Python, the demo code is `.py`.
 
-[Download Office-Caltech with SURF features](https://pan.baidu.com/s/1bp4g7Av)
+[Download Amazon Review dataset](https://mega.nz/#F!RS43DADD!4pWwFA0CBJP1oLhAR23bTA).
 
-[Download Image-CLEF ResNet-50 pretrained features](https://pan.baidu.com/s/16wBgDJI6drA0oYq537h4FQ)
+[Download Office-Caltech with SURF features](https://mega.nz/#F!AaJTGIzD!XHM2XMsSd9V-ljVi0EtvFg)
 
-[Download Office-Home ResNet-50 pretrained features](https://pan.baidu.com/s/1qvcWJCXVG8JkZnoM4BVoGg)
+[Download Image-CLEF ResNet-50 pretrained features](https://mega.nz/#F!QPJCzShS!b6qQUXWnCCGBMVs0m6MdQw)
+
+[Download Office-Home ResNet-50 pretrained features](https://mega.nz/#F!pGIkjIxC!MDD3ps6RzTXWobMfHh0Slw)
 
 You are welcome to run EasyTL on other public datasets such as [here](https://github.com/jindongwang/transferlearning/blob/master/data/dataset.md). You can also use your own datasets.
 
